@@ -1,6 +1,9 @@
 # functions-from-zero
 Coursera training
 
+[![Python application test with Github Actions](https://github.com/Samiksha27/functions-from-zero/actions/workflows/main.yml/badge.svg)](https://github.com/Samiksha27/functions-from-zero/actions/workflows/main.yml)
+
+
 $ touch Hello.py
 $ python Hello.py
 $ touch Makefile
